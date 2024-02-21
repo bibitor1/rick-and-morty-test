@@ -1,1 +1,9 @@
-# rick-and-morty-test
+# Тестовое приложение rick-and-morty
+
+### Установит зависимости
+
+npm i
+
+### Запустит проект
+
+npm start
